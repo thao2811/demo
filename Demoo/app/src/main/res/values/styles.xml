@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="hourWidgetFont">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">56dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
